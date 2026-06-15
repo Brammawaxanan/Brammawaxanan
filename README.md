@@ -24,36 +24,35 @@
 
 ## 🧠 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class BrammawaxananSivanantharajah:
+### Hi, I'm **Brammawaxanan Sivanantharajah** 👋
 
-    name        = "Brammawaxanan Sivanantharajah"
-    alias       = "Waxan"
-    location    = "Sri Lanka 🇱🇰"
-    degree      = "BSc IT (Data Science) — SLIIT"
+I'm a **Data Science undergraduate at SLIIT** from Sri Lanka 🇱🇰, passionate about building intelligent, data-driven solutions.  
+My main interests are **AI/ML, Data Analytics, Data Engineering, and Frontend Development**.
 
-    stack = [
-        "Python", "Scikit-learn", "Pandas", "NumPy",
-        "React", "Tailwind CSS", "WordPress",
-        "Microsoft Excel", "SQL"
-    ]
+I enjoy working with data, finding patterns, building machine learning models, and turning raw information into useful insights.  
+Currently, I'm improving my skills in **Deep Learning, Advanced SQL, Data Engineering, Cloud Platforms, and Data Visualisation**.
 
-    currently_learning = [
-        "Deep Learning (TensorFlow / PyTorch)",
-        "Advanced SQL & Data Engineering",
-        "Cloud Platforms (AWS / GCP)",
-        "Data Visualisation (Power BI / Tableau)"
-    ]
+<br/>
 
-    career_goal = "AI/ML Engineer → Data Scientist"
+### 🚀 What I Do
 
-    fun_fact = "I speak English & Tamil fluently 🌐"
+- 🤖 Build machine learning models using **Python, Scikit-learn, Pandas, and NumPy**
+- 📊 Analyse and visualise data using **Excel, SQL, Power BI, and Python**
+- 🌐 Create modern web interfaces using **React and Tailwind CSS**
+- 🗄️ Work with databases and structured data for real-world projects
+- ☁️ Learning cloud and data engineering tools for scalable solutions
 
-    def motto(self):
-        return "Data is the new oil — I'm the refinery. ⚗️"
-```
+<br/>
+
+### 🎯 Career Goal
+
+My goal is to become an **AI/ML Engineer** and grow into a **Data Scientist**, while also strengthening my skills in **Data Analytics** and **Data Engineering**.
+
+<br/>
+
+> **“Data is the new oil — I'm the refinery.” ⚗️**
 
 <br clear="right"/>
 
