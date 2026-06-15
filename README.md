@@ -24,36 +24,38 @@
 
 ## 🧠 About Me
 
-<table>
-  <tr>
-    <td><b>👤 Name</b></td>
-    <td>Brammawaxanan Sivanantharajah <i>(Waxan)</i></td>
-    <td><b>📍 Location</b></td>
-    <td>Sri Lanka 🇱🇰</td>
-  </tr>
-  <tr>
-    <td><b>🎓 Degree</b></td>
-    <td>BSc IT (Data Science) — SLIIT</td>
-    <td><b>🎯 Goal</b></td>
-    <td>AI/ML Engineer → Data Scientist</td>
-  </tr>
-</table>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-<br/>
+```python
+class BrammawaxananSivanantharajah:
 
-**🛠️ Tech Stack**
+    name        = "Brammawaxanan Sivanantharajah"
+    alias       = "Waxan"
+    location    = "Sri Lanka 🇱🇰"
+    degree      = "BSc IT (Data Science) — SLIIT"
 
-`Python` `Scikit-learn` `Pandas` `NumPy` `React` `Tailwind CSS` `WordPress` `Microsoft Excel` `SQL`
+    stack = [
+        "Python", "Scikit-learn", "Pandas", "NumPy",
+        "React", "Tailwind CSS", "WordPress",
+        "Microsoft Excel", "SQL"
+    ]
 
-**📚 Currently Learning**
+    currently_learning = [
+        "Deep Learning (TensorFlow / PyTorch)",
+        "Advanced SQL & Data Engineering",
+        "Cloud Platforms (AWS / GCP)",
+        "Data Visualisation (Power BI / Tableau)"
+    ]
 
-`Deep Learning (TensorFlow / PyTorch)` `Advanced SQL & Data Engineering` `Cloud Platforms (AWS / GCP)` `Data Visualisation (Power BI / Tableau)`
+    career_goal = "AI/ML Engineer → Data Scientist"
 
-**🌐 Languages** &nbsp; `English (Fluent)` `Tamil (Fluent)`
+    fun_fact = "I speak English & Tamil fluently 🌐"
 
-<br/>
+    def motto(self):
+        return "Data is the new oil — I'm the refinery. ⚗️"
+```
 
-> *"Data is the new oil — I'm the refinery. ⚗️"*
+<br clear="right"/>
 
 ---
 
